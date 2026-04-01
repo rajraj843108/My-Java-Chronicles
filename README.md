@@ -2,7 +2,7 @@
 
 🚀 This repository documents my journey of learning Java from basics to advanced concepts.
 
-## 📌 What’s Included (Systematic Order)
+## 📌 What’s Included 
 
 1. 🔹 Loops & Conditionals  
 2. 🔹 Functions & Methods  
